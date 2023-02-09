@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+body {
+  background: #eaeaea;
+  font-family: 'Roboto', sans-serif;
+}
+
+#container{
+    width: 70%;
+    background-color: #FFFFFF;
+    margin: auto;
+    border-radius: 20px;
+}
+
+p{
+    color:#39393A;
+}
+
+
+#imagem{
+    width: 100%;
+    text-align: center;
+}
+
+h1, h2{
+    text-align: center;
+    color: #1B1B1B;
+}
+
+footer {
+    position: absolute;
+    text-align: center;
+    /* bottom: 0; */
+    left: 0;
+    color: #8F8F8F;
+}
