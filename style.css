@@ -12,7 +12,7 @@ body {
 }
 
 #container{
-    width: 70%;
+    width: 60%;
     background-color: #FFFFFF;
     margin: auto;
     border-radius: 20px;
@@ -45,6 +45,7 @@ ul, ol{
 
 li{
     font-weight: 500;
+    list-style-position:inside ;
 }
 
 footer {
